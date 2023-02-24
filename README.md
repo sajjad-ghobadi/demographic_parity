@@ -4,9 +4,7 @@ This is the source code used for the experimental part of the paper
 For execution of the experiments use
     python main_dp.py experiment_type N
 
-where experiment_type is one of
-        [   
-	    
+where experiment_type is one of[
 	    'ba-singletons-0_0.4-200',
             'ba-singletons-0_0.4-100',
             'ba-singletons-0_0.4-50',

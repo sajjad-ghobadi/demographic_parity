@@ -104,6 +104,7 @@ For creating the instances use
 
 [1] Fish, Bashardoust, Boyd, Friedler, Scheidegger, Venkatasubramanian. Gaps in Information Access in Social Networks. WWW 2019.
     http://sorelle.friedler.net/papers/access_networks_www19.pdf
+    
 [2] Tsang, Wilder, Rice, Tambe, Zick. Group-Fairness in Influence Maximization. IJCAI 2019.
     https://www.ijcai.org/Proceedings/2019/0831.pdf
 [3] Farnad, Golnoosh, Behrouz Babaki, and Michel Gendreau. "A unifying framework for fairness-aware influence maximization." Companion Proceedings of the Web Conference 2020.

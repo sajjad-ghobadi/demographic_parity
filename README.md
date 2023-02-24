@@ -107,8 +107,13 @@ For creating the instances use
     
 [2] Tsang, Wilder, Rice, Tambe, Zick. Group-Fairness in Influence Maximization. IJCAI 2019.
     https://www.ijcai.org/Proceedings/2019/0831.pdf
+    
 [3] Farnad, Golnoosh, Behrouz Babaki, and Michel Gendreau. "A unifying framework for fairness-aware influence maximization." Companion Proceedings of the Web Conference 2020.
+
 [4] Young, Neal E. "Randomized Rounding Without Solving the Linear Program." SODA. Vol. 95. 1995.
+
 [5] Becker, D’Angelo, Ghobadi, and Gilbert. Fairness in Influence Maximization through Randomization. J. Artif. Intell. Res., 73: 1251–1283. 2022.
+
 [6] Tang, Youze, Xiaokui Xiao, and Yanchen Shi. "Influence maximization: Near-optimal time complexity meets practical efficiency." Proceedings of the 2014 ACM SIGMOD international conference on Management of data. 2014.
+
 [7] Traag, Vincent A., Ludo Waltman, and Nees Jan Van Eck. "From Louvain to Leiden: guaranteeing well-connected communities." Scientific reports 9.1 (2019): 1-12.

@@ -5,8 +5,8 @@ For execution of the experiments use
     python main_dp.py experiment_type N
 
 where experiment_type is one of
-        [   'ba-singletons-0_0.4-200',
-	
+        [   
+	    'ba-singletons-0_0.4-200',
             'ba-singletons-0_0.4-100',
             'ba-singletons-0_0.4-50',
             'tsang-region-gender-0-0.4',

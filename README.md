@@ -42,7 +42,7 @@ For creating the instances use
 
 
 - The experiment_types have the following meaning, see the paper for the interpretation of the community structure types:
-    - 'ba-singletons-0_0.4-200':            + Barabasi albert graph (parameter m=2),
+    - 'ba-singletons-0_0.4-200':           + Barabasi albert graph (parameter m=2),
                                             + singleton community structure
                                             + edge weights uniformly at random in [0,0.4]
                                             + k = 25
